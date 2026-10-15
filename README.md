@@ -23,3 +23,4 @@ pip install -r requirements.txt
 python generate_data.py
 python train_model.py
 streamlit run dashboard.py
+License: MIT License - See LICENSE file for details.
