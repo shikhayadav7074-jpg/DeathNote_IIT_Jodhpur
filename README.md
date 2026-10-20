@@ -24,3 +24,5 @@ python generate_data.py
 python train_model.py
 streamlit run dashboard.py
 License: MIT License - See LICENSE file for details.
+## 🎥 Project Demo Video
+👉 **open this link to Watch Demo:** https://youtu.be/1uXc8kJ9Mqs
